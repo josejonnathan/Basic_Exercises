@@ -14,3 +14,7 @@ Will convert longitudinal units using a Dictionary and flow control
 **Palindrome_Analizer**
 
 Will help you to identify if a word or a phrase like "Taco Cat" or "Step on No Pets" it is or not a Palindrome
+
+**ASCII_Art_Printer**
+
+Completely useless but nice, a good way to learn about escape characters
