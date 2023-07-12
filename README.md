@@ -22,3 +22,7 @@ Completely useless but nice, a good way to learn about escape characters
 **Catan_Dice**
 
 I love to play "Catan Cities and Knights" but I'm too lazy to roll the dice, I created this to solve it, ussing Classes
+
+**Deck_Shuffler**
+
+Want to shuffle and deal a Poker Deck?, I did this using a simple funcion and many Lists
