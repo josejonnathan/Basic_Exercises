@@ -18,3 +18,7 @@ Will help you to identify if a word or a phrase like "Taco Cat" or "Step on No P
 **ASCII_Art_Printer**
 
 Completely useless but nice, a good way to learn about escape characters
+
+**Catan_Dice**
+
+I love to play "Catan Cities and Knights" but I'm too lazy to roll the dice, I created this to solve it, ussing Classes
