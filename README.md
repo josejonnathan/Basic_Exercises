@@ -30,3 +30,7 @@ Want to shuffle and deal a Poker Deck?, I did this using a simple funcion and ma
 **Temperature_Units_Converter**
 
 A simple program using flow control to convert between °C and °F
+
+**Pasword_Generator**
+
+set the number of charachters and receive a random password
