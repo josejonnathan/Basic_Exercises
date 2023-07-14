@@ -68,7 +68,7 @@ result = value / conversion_table[str(result_unit)]["conv_rate"]
 from_unit = conversion_table[str(from_unit)]["name"]
 result_unit = conversion_table[str(result_unit)]["name"]
 print()
-print(f"{value_o} {from_unit} are {result} {result_unit}")
+print(f"{value_o} {from_unit} are {round(result, 2)} {result_unit}")
 print()
 print("*** Bye, Bye!!! ***")
 print()
